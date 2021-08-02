@@ -1,1 +1,11 @@
 # Self_assessment
+## Self-assessment
+Throughout creating the project, the COVID-19 pandemic playbook, I played a number of different roles. In the beginning of the project I helped facilitate ideas and get the team onto a good start with the idea. Throughout the project I supported the database team by identifying, gathering, and cleaning data sets to support the machine learning model. I spent a lot of time looking for great resources to introduce more factors into our machine learning model. I'd say my most notable contributions for the data gathering was finding and cleaning a life style data set from Gallup and finding the covid-19 state mandate ratings.
+
+My second role throughout the project was helping Yodit with creating the dashboard to visualize the data. I attended a number of team meetings to ensure that the deliverables were completed on time. My greatest personal challenge throughout the process was finding enough time to work on the project. At the same time of the start of the project, my work life got extremely busy. I was able to find the time to support my team though in the end.
+
+## Team-assessment
+My communication protocl was through slack with my team. Whenever I was not able to make a meeting, I told our team leader (David) and he provided me with the notes from after the meeting to make sure that I was on the same page as everyone else. I think that my strengths are my agility and ability to help out in a number of difference capacities. I might not know the most about a specific thing, but I'm able to help out in a number of different ways to ensure timelines are met.
+
+## Summary of project
+Through our project, we wanted to identify the biggest factors that contributed to the spread of COVID-19. We used a random forrest model to determine which would be the most impacful of our factors. In the end, we learned that we did not have the best resources to be able to conduct the analysis. Since our data had big limitations, it required a lot of work that we were not able to do in the short timeline of the project. However, one of the most important factors was the policy mandate score which goes to show that things like the maskmandate and stay at home orders did play a large role in preventing the spread of COVID-19.
